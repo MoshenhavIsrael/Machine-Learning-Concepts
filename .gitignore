@@ -1,0 +1,26 @@
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*.so
+*.pyc
+*.egg-info/
+
+# Jupyter notebooks
+.ipynb_checkpoints/
+*.ipynb
+
+# Data and results
+*.csv
+*.xlsx
+*.tsv
+*.mat
+
+
+# VS Code files
+.vscode/
+
+# PyCharm files (or other IDE)
+.idea/
+
+# Git merge/rebase backup files
+*.orig
